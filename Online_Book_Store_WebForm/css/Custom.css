@@ -1,0 +1,37 @@
+﻿.center {
+    text-align:center;
+}
+
+.center-page{
+    width :300px;
+    height :300px;
+    position :absolute;
+    top : -40px;
+    left :0;
+    right :0;
+    margin :auto;
+}
+
+.cwidth{
+    width: 23% !important;
+    display: inline-block !important;
+}
+
+.btnSignUp {
+    padding-top: 2rem;
+    padding-left: 18rem;
+}
+
+.footer-pos{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top:800px;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+
+}
+
+
